@@ -1,5 +1,5 @@
 //Slack APIのトークン
-var OAUTH_TOKEN = '{your Bot OAUTH_TOKEN}';
+var OAUTH_TOKEN = '{your User OAUTH_TOKEN}';
 
 //ログ取得対象のチャンネル
 let channels = {
