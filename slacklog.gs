@@ -22,7 +22,7 @@ var options = {
 var limitOfLogsPerAction = 1000;
 
 //スプレッドシート
-var SHEET_URL = "https://docs.google.com/spreadsheets/d/1UWYnkxUwiSeWckFP3UYX_58XhlzaNEVl0DQ9XXV8oTc/edit#gid=0";
+var SHEET_URL = "{YourSpreadsheetUrl}";
 spreadSheet = SpreadsheetApp.openByUrl(SHEET_URL);
 var sheet = spreadSheet.getActiveSheet();
 
