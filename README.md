@@ -6,9 +6,9 @@ Google App Scriptsをベースにスプレッドシートに指定したチャ�
 - スプレッドシート及びそのURL 
    - 最初の行から
 - Slack APIのOAuthトークン
-   - トークンについて：
-   - トークンの種類：User
-   - トークンスコープ：channels:history, groups:history
+  - トークンについて：
+     - トークンの種類：User
+     - トークンスコープ：channels:history, groups:history
 
 ## 仕様
 - チャンネル名、投稿内容、日時などを30分単位でスプレッドシートに記録していきます
